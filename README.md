@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **llm Engineering**
 
-- 👨‍💻 All of my projects are available at [https://md-rashid.vercel.app/](https://md-rashid.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://md-rashid.vercel.app/)
 
 - 📫 How to reach me **mohdrashit15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qW2a9F528B9Ye2YBoTTqBFZ2BszT9LGX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Rwd2FIkaLOOoPfPIcJF6dDDwWVxkwTN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
