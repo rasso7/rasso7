@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Rashid</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **llm Engineering**
 
-- 👨‍💻 All of my projects are available at [https://md-rashid-portfolio.netlify.app/](https://md-rashid-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://md-rashid.vercel.app/](https://md-rashid.vercel.app/)
 
 - 📫 How to reach me **mohdrashit15@gmail.com**
 
